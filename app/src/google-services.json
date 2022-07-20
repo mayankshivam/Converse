@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343512402291",
+    "project_id": "converse-6e68c",
+    "storage_bucket": "converse-6e68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343512402291:android:73d1456cca72d1be9e1d06",
+        "android_client_info": {
+          "package_name": "com.example.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343512402291-s0mpbg4gsl6j69n1g47dim7m127lqrlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaUfOh_YUqnIO6_VnfIt0_tutt0OjSVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343512402291-s0mpbg4gsl6j69n1g47dim7m127lqrlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
