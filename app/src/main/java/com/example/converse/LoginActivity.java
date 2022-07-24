@@ -22,7 +22,7 @@ public class LoginActivity extends AppCompatActivity {
     EditText login_email,login_password;
     TextView signin_btn;
     FirebaseAuth auth;
-
+    EditText a;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
