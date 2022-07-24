@@ -43,7 +43,7 @@
 
         <TextView
             android:id="@+id/yesBtn"
-            android:background="@color/primary_purple"
+            android:background="@color/dark_yellow"
             android:layout_margin="@dimen/_10sdp"
             android:layout_width="match_parent"
             android:layout_height="@dimen/_25sdp"

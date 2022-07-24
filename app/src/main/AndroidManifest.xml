@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.wetalk">
+    package="com.example.converse">
 
     <application
         android:allowBackup="true"
@@ -9,12 +9,12 @@
         android:roundIcon="@drawable/circlelogoyellow"
         android:supportsRtl="true"
         android:theme="@style/Theme.WeTalk">
-        <activity android:name=".SettingsActivity" android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"></activity>
-        <activity android:name=".ChatActivity" />
-        <activity android:name=".RegistrationActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".HomeActivity" android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.converse.SettingsActivity" android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"></activity>
+        <activity android:name="com.example.converse.ChatActivity" />
+        <activity android:name="com.example.converse.RegistrationActivity" />
+        <activity android:name="com.example.converse.LoginActivity" />
+        <activity android:name="com.example.converse.HomeActivity" android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity android:name="com.example.converse.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

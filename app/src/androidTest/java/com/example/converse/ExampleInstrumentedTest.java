@@ -1,4 +1,4 @@
-package com.example.wetalk;
+package com.example.converse;
 
 import android.content.Context;
 

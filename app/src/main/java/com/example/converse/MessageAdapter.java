@@ -1,4 +1,4 @@
-package com.example.wetalk;
+package com.example.converse;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -16,8 +16,8 @@ import java.util.ArrayList;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
-import static com.example.wetalk.ChatActivity.rImage;
-import static com.example.wetalk.ChatActivity.sImage;
+import static com.example.converse.ChatActivity.rImage;
+import static com.example.converse.ChatActivity.sImage;
 
 public class MessageAdapter extends RecyclerView.Adapter{
 

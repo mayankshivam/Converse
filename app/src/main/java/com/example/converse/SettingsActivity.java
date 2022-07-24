@@ -1,4 +1,4 @@
-package com.example.wetalk;
+package com.example.converse;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

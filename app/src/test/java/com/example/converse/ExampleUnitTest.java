@@ -1,4 +1,4 @@
-package com.example.wetalk;
+package com.example.converse;
 
 import org.junit.Test;
 
